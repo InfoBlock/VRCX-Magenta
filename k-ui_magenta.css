@@ -8,7 +8,7 @@
 	--background-RGB: 0, 0, 0,100; 
 }
 /*background components here, so bascially everything below is just backgrounds and shit*/ 
-.x-container { background: var(--background); background-image: url('https://i.imgur.com/11C68WI.png'); background-repeat: no-repeat; background-position: center;}
+.x-container { background: var(--background); background-image: url('https://infoblock.frii.site/assets/logos/infoblock%20text.png'); background-repeat: no-repeat; background-position: center;}
 .el-message-box { background: var(--background);}
 .x-menu-container { background: var(--background);}
 .x-aside-container { background: var(--background);}
